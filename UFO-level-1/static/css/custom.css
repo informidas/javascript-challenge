@@ -1,0 +1,22 @@
+#search-form {
+  margin: 30px 0;
+}
+
+header {
+  padding-top: 100px;
+  text-align: center;
+  height: 200px;
+  color: rgb(170, 89, 247);
+}
+
+.fmt-hdr-row {
+  background-color: rgb(195, 153, 235);
+}
+
+.fmt-data-row {
+  background-color: rgb(239, 230, 248);
+}
+
+body {
+  background-image: url('../image/nasa.jpg');
+}
